@@ -6,7 +6,8 @@ public class AdvanceIrrigationStrategy extends IrrigationStrategy {
     
 }
 
-    public void adjustIrrigationSchedule(){
+    public void adjustIrrigationSchedule()
+    {
 
     }
 
