@@ -1,5 +1,4 @@
 public class WatherSensor implements Sensor 
 {
-    @Override
-    public String
+ 
 }

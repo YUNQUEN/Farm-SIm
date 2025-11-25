@@ -1,5 +1,4 @@
-public class SmartIrrigationSystem {
-    
-    
-    
+public class SmartIrrigationSystem 
+{
+        
 }

@@ -1,12 +1,4 @@
-public class BasicIrrigationStrategy extends IrrigationStrategy {
-    
-
-    public void DetermineIrrigationAmount(double MoisterLevel, String WatherCondition){
-
-    }
-
-    public void ScheduleIrrigation(){
-        
-    }
+public class BasicIrrigationStrategy extends IrrigationStrategy 
+{
 
 }

@@ -1,11 +1,4 @@
-public abstract class IrrigationStrategy {
-    
-    
-    public void IrrigationAmount(){
-        
-    }
+public abstract class IrrigationStrategy 
+{
 
-    public void ScheduleIrrigation(){
-
-    }
 }

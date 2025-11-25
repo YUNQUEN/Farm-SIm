@@ -1,8 +1,6 @@
-public interface Sensor {
+public interface Sensor 
+{
+    public double readMoistureSensor();
 
-    
-    public void ReadMoisterLevel();
-    
-    public void ReadWatherCondition();
-
+    public String readWeatherSensor();
 }
